@@ -31,7 +31,7 @@ body {
 	color: var(--clr-slate-900);
 	font-size: var(--fs-100);
 	font-weight: var(--fw-400);
-	height: 100vh;
+	/* height: 100vh; */
 	line-height: 1.5;
 
 	display: flex;
