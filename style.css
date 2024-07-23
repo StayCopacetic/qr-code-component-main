@@ -105,7 +105,7 @@ h1 {
 }
 
 .card-content {
-	min-width: 295px;
+	min-width: 288px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
