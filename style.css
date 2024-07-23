@@ -39,7 +39,7 @@ body {
 	margin-block: auto;
 
 	display: grid;
-	grid-template-rows: 1fr auto;
+	/* grid-template-rows: auto; */
 }
 
 main {
