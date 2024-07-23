@@ -35,7 +35,7 @@ body {
 	color: var(--clr-slate-900);
 	font-size: var(--fs-100);
 	font-weight: var(--fw-400);
-	height: 100vh;
+	height: 100dvh;
 	margin-block: auto;
 	line-height: 1.5;
 
