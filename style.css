@@ -37,7 +37,6 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	gap: 5rem;
 	height: 100vh;
 	margin: 0;
 }
@@ -102,7 +101,7 @@ h1 {
 	text-align: center;
 	gap: 1rem;
 	padding-inline: 0.875rem;
-	padding-block: 0.5rem;
+	padding-block: 0.75rem;
 }
 
 .card-img {
@@ -110,7 +109,8 @@ h1 {
 	max-width: 100%;
 }
 
-.challenge-info {
+.attribution {
 	text-align: center;
+	margin-block-start: 5rem;
 	margin-inline: 2.5rem;
 }
