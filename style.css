@@ -93,7 +93,7 @@ h1 {
 
 .card {
 	max-width: 325px;
-	min-height: 500px;
+	min-height: 495px;
 	background-color: var(--bg-light);
 	padding: 1rem;
 	border-radius: 1rem;
@@ -111,8 +111,8 @@ h1 {
 	justify-content: center;
 	text-align: center;
 	gap: 0.75rem;
-	padding-inline: 0.875rem;
-	margin-block-start: 0.875rem;
+	margin-inline: 1rem;
+	margin-block-start: 1rem;
 }
 
 .card-img {
