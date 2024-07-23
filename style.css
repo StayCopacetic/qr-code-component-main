@@ -17,7 +17,7 @@
 *::before,
 *::after {
 	box-sizing: border-box;
-	line-height: calc(1em + 0.5rem);
+	line-height: calc(1em + 0.6rem);
 }
 
 body,
@@ -88,7 +88,7 @@ main {
 }
 
 .center {
-	box-sizing: content-box;
+	/* box-sizing: content-box; */
 	max-inline-size: 60ch;
 	margin-inline: auto;
 	display: flex;
@@ -102,7 +102,7 @@ main {
 /* Card Section  */
 
 .card {
-	max-width: 320px;
+	max-width: 20rem;
 	background-color: var(--bg-light);
 	padding: 1em 1em 2.5em 1em;
 	border-radius: 1em;
