@@ -36,7 +36,6 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	flex-direction: column;
 	height: 100vh;
 	margin: 0;
 }
@@ -50,6 +49,7 @@ h1 {
 	/* clamp(min | preferred | max) */
 	width: clamp(375px, 90vw, 1440px);
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 }
@@ -109,8 +109,8 @@ h1 {
 	max-width: 100%;
 }
 
-.attribution {
+.attribute {
 	text-align: center;
-	margin-block-start: 5rem;
+	margin-block-start: 2.5rem;
 	margin-inline: 2.5rem;
 }
