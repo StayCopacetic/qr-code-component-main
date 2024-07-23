@@ -32,12 +32,12 @@ body {
 	color: var(--clr-slate-900);
 	font-size: var(--fs-100);
 	font-weight: var(--fw-400);
-	line-height: 1.4;
+	line-height: 1.5;
 	height: 100dvh;
 	margin-block: auto;
 
 	display: grid;
-	grid-template-rows: 1fr auto;
+	grid-template-rows: 1fr 25px;
 }
 
 section {
@@ -121,8 +121,7 @@ h1 {
 	max-width: 100%;
 }
 
-footer {
-	padding: 1rem;
+.attribute {
+	padding-block-end: 0.5rem;
 	text-align: center;
-	width: 100%;
 }
