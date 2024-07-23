@@ -93,7 +93,7 @@ h1 {
 
 .card {
 	max-width: 320px;
-	min-height: 493px;
+	min-height: 499px;
 	background-color: var(--bg-light);
 	padding: 1rem 1rem 2.5rem 1rem;
 	border-radius: 1rem;
