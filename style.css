@@ -92,8 +92,8 @@ h1 {
 /* Card Section  */
 
 .card {
-	max-width: 325px;
-	min-height: 495px;
+	max-width: 320px;
+	min-height: 499px;
 	background-color: var(--bg-light);
 	padding: 1rem;
 	border-radius: 1rem;
