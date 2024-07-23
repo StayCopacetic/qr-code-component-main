@@ -105,14 +105,14 @@ h1 {
 }
 
 .card-content {
-	min-width: 288px;
+	min-width: 295px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
 	gap: 1rem;
-	padding-inline: 0.938rem;
+	padding-inline: 1rem;
 }
 
 .card-img {
