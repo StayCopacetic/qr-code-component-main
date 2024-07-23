@@ -52,7 +52,7 @@ section {
 }
 
 h1 {
-	line-height: 1.3;
+	line-height: 1.2;
 }
 
 /* Container to constrain the width of the content */
@@ -95,7 +95,7 @@ h1 {
 	max-width: 320px;
 	min-height: 499px;
 	background-color: var(--bg-light);
-	padding: 1rem;
+	padding: 1rem 1rem 2.5rem 1rem;
 	border-radius: 1rem;
 	font: inherit;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -108,12 +108,11 @@ h1 {
 	min-width: 288px;
 	display: flex;
 	flex-direction: column;
-	align-items: center;
 	justify-content: center;
+	align-items: center;
 	text-align: center;
 	gap: 1rem;
 	padding-inline: 1rem;
-	/* margin-block-start: 1.25rem; */
 }
 
 .card-img {
