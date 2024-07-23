@@ -1,6 +1,6 @@
 :root {
 	--clr-slate-300: hsl(212, 45%, 89%);
-	--clr-slate-500: hsl(216, 15%, 48%);
+	--clr-slate-500: hsl(216, 15%, 58%);
 	--clr-slate-900: hsl(218, 44%, 22%);
 	--bg-light: hsl(0, 0%, 100%);
 
@@ -112,10 +112,10 @@ section {
 
 .card {
 	max-width: 320px;
-	/* min-height: 499px; */
+	min-height: 499px;
 	background-color: var(--bg-light);
-	padding: 1rem 1rem 2.5rem 1rem;
-	border-radius: 1rem;
+	padding: 1em 1em 2.5em 1em;
+	border-radius: 1em;
 	font: inherit;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 	display: flex;
@@ -131,11 +131,11 @@ section {
 	align-items: center;
 	text-align: center;
 	gap: 1rem;
-	padding-inline: 1rem;
+	padding-inline: 1em;
 }
 
 .card-img {
-	border-radius: 0.5rem;
+	border-radius: 0.5em;
 	max-width: 100%;
 }
 
