@@ -55,7 +55,7 @@ body {
 	grid-template-rows: 1fr auto;
 }
 
-section {
+main {
 	display: grid;
 	place-items: center;
 }
