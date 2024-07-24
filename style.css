@@ -107,7 +107,9 @@ h1 {
 /* Card Section  */
 
 .card {
-	max-width: 20rem;
+	/* max-width: 20rem; */
+	max-inline-size: 31.25rem;
+	max-inline-size: 20rem;
 	background-color: var(--bg-light);
 	padding: 1em 1em 2.5em 1em;
 	border-radius: 1em;
